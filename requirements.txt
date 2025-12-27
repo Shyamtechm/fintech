@@ -8,3 +8,4 @@ decorator
 scikit-learn
 scipy
 tabulate
+streamlit
