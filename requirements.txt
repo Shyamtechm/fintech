@@ -1,0 +1,8 @@
+ffn
+QuantLib
+yfinance
+pandas
+numpy
+matplotlib
+pyfolio
+decorator, matplotlib, numpy, pandas, scikit-learn, scipy, tabulate, yfinance
