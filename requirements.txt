@@ -4,8 +4,8 @@ yfinance
 pandas
 numpy
 matplotlib
-pyfolio
 decorator
 scikit-learn
 scipy
 tabulate
+pyfolio
