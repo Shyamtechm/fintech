@@ -32,7 +32,9 @@ Library	Role in Project
 ffn	Calculate returns, volatility, Sharpe, drawdown
 Pyfolio	Analyze portfolio risk, create tear sheets
 QuantLib	Price options & bonds for hedging
+
 🛠 Step-by-Step Project Design
+
 1️⃣ Build a Portfolio (Stocks)
 
 Pick assets:
@@ -51,15 +53,9 @@ stats.display()
 
 
 You get:
-
 CAGR
-
 Sharpe Ratio
-
 Max Drawdown
-
 Volatility
 
-This tells:
-
-How good is this portfolio?
+This tells: How good is this portfolio?
